@@ -1,0 +1,912 @@
+{
+  "welcome_signin": {
+    "file": "welcome_signin.mp3",
+    "sha": "da58e757beb39ec0",
+    "appKey": "welcomeSpoken"
+  },
+  "login_number": {
+    "file": "login_number.mp3",
+    "sha": "2fe5bba537bb8ad6",
+    "appKey": "yourNumber"
+  },
+  "login_code": {
+    "file": "login_code.mp3",
+    "sha": "ac901963f4522a0c",
+    "appKey": "enterCode"
+  },
+  "wrongCode": {
+    "file": "wrongCode.mp3",
+    "sha": "e63cf732077aa030",
+    "appKey": "wrongCode"
+  },
+  "needTenDigits": {
+    "file": "needTenDigits.mp3",
+    "sha": "847781f31dd54b1b",
+    "appKey": "needTenDigits"
+  },
+  "consent_academicRecords": {
+    "file": "consent_academicRecords.mp3",
+    "sha": "24144d2a06e33ad2",
+    "appKey": "qAcademicRecords"
+  },
+  "consent_alerts": {
+    "file": "consent_alerts.mp3",
+    "sha": "4e59cb0e26fc7e57",
+    "appKey": "qAlerts"
+  },
+  "consent_busLocation": {
+    "file": "consent_busLocation.mp3",
+    "sha": "4dc1be2ff1e876ff",
+    "appKey": "qBusLocation"
+  },
+  "consent_gateFace": {
+    "file": "consent_gateFace.mp3",
+    "sha": "446f13cafbec1492",
+    "appKey": "qGateFace"
+  },
+  "noIsFine": {
+    "file": "noIsFine.mp3",
+    "sha": "4710da9a19100b82",
+    "appKey": "noIsFine"
+  },
+  "requiredNote": {
+    "file": "requiredNote.mp3",
+    "sha": "66e23d7734a5b179",
+    "appKey": "requiredNote"
+  },
+  "helpHomeChild": {
+    "file": "helpHomeChild.mp3",
+    "sha": "c4b7db70f6e685a2",
+    "appKey": "helpHomeChild"
+  },
+  "helpHomeAttendance": {
+    "file": "helpHomeAttendance.mp3",
+    "sha": "20f5e154a178f564",
+    "appKey": "helpHomeAttendance"
+  },
+  "helpHomeFees": {
+    "file": "helpHomeFees.mp3",
+    "sha": "5c51e371b95571b5",
+    "appKey": "helpHomeFees"
+  },
+  "helpHomeMessages": {
+    "file": "helpHomeMessages.mp3",
+    "sha": "7a89e9c453d198ff",
+    "appKey": "helpHomeMessages"
+  },
+  "helpHomeCall": {
+    "file": "helpHomeCall.mp3",
+    "sha": "cf5e3d147bd74883",
+    "appKey": "helpHomeCall"
+  },
+  "helpAttendanceVerdict": {
+    "file": "helpAttendanceVerdict.mp3",
+    "sha": "bc01523f558b0c3d",
+    "appKey": "helpAttendanceVerdict"
+  },
+  "helpAttendanceMonth": {
+    "file": "helpAttendanceMonth.mp3",
+    "sha": "db3e8bd6d170b2f5",
+    "appKey": "helpAttendanceMonth"
+  },
+  "helpFeesAmount": {
+    "file": "helpFeesAmount.mp3",
+    "sha": "fc782c8a0d465c6e",
+    "appKey": "helpFeesAmount"
+  },
+  "helpFeesPay": {
+    "file": "helpFeesPay.mp3",
+    "sha": "ac7762c6de8f4af5",
+    "appKey": "helpFeesPay"
+  },
+  "helpFeesShare": {
+    "file": "helpFeesShare.mp3",
+    "sha": "bc620a7a55af11e9",
+    "appKey": "helpFeesShare"
+  },
+  "helpNoticePlay": {
+    "file": "helpNoticePlay.mp3",
+    "sha": "3b7573c6fd793cfa",
+    "appKey": "helpNoticePlay"
+  },
+  "helpNoticeAck": {
+    "file": "helpNoticeAck.mp3",
+    "sha": "8292535f162c78d1",
+    "appKey": "helpNoticeAck"
+  },
+  "helpMessagesList": {
+    "file": "helpMessagesList.mp3",
+    "sha": "3d75c258dfea61c2",
+    "appKey": "helpMessagesList"
+  },
+  "helpChatSpeak": {
+    "file": "helpChatSpeak.mp3",
+    "sha": "1c7be9af29975aba",
+    "appKey": "helpChatSpeak"
+  },
+  "helpChatQuick": {
+    "file": "helpChatQuick.mp3",
+    "sha": "2ee6b2b62161171f",
+    "appKey": "helpChatQuick"
+  },
+  "helpEventRsvp": {
+    "file": "helpEventRsvp.mp3",
+    "sha": "8c9ce51b4fb5e550",
+    "appKey": "helpEventRsvp"
+  },
+  "helpBusEta": {
+    "file": "helpBusEta.mp3",
+    "sha": "ec7a221b5b1e7f68",
+    "appKey": "helpBusEta"
+  },
+  "helpBusStops": {
+    "file": "helpBusStops.mp3",
+    "sha": "98f265888077b464",
+    "appKey": "helpBusStops"
+  },
+  "helpProfileSize": {
+    "file": "helpProfileSize.mp3",
+    "sha": "4c9fbd51f86a3916",
+    "appKey": "helpProfileSize"
+  },
+  "helpProfileAloud": {
+    "file": "helpProfileAloud.mp3",
+    "sha": "23749e91579b0c74",
+    "appKey": "helpProfileAloud"
+  },
+  "helpConsent": {
+    "file": "helpConsent.mp3",
+    "sha": "be46d54db3a53c5d",
+    "appKey": "helpConsent"
+  },
+  "helpLogin": {
+    "file": "helpLogin.mp3",
+    "sha": "9c1153a580449f4f",
+    "appKey": "helpLogin"
+  },
+  "cameToday": {
+    "file": "cameToday.mp3",
+    "sha": "a8eb957741ef3aef",
+    "appKey": "cameToday"
+  },
+  "notYetToday": {
+    "file": "notYetToday.mp3",
+    "sha": "ca04ba488fdf6d7a",
+    "appKey": "notYetToday"
+  },
+  "allClasses": {
+    "file": "allClasses.mp3",
+    "sha": "5acb31583d01f64d",
+    "appKey": "allClasses"
+  },
+  "feesDue": {
+    "file": "feesDue.mp3",
+    "sha": "e103954cabbfea31",
+    "appKey": "feesDue"
+  },
+  "noFeesDue": {
+    "file": "noFeesDue.mp3",
+    "sha": "3e42944364d1baea",
+    "appKey": "noFeesDue"
+  },
+  "noNewMessages": {
+    "file": "noNewMessages.mp3",
+    "sha": "2c8f19b9b97dfbb9",
+    "appKey": "noNewMessages"
+  },
+  "verdictGood": {
+    "file": "verdictGood.mp3",
+    "sha": "d0097ec60150b451",
+    "appKey": null
+  },
+  "verdictCareful": {
+    "file": "verdictCareful.mp3",
+    "sha": "78cc1ca12efc7a1a",
+    "appKey": null
+  },
+  "busNear": {
+    "file": "busNear.mp3",
+    "sha": "7b202e1d70d9eae2",
+    "appKey": "busNear"
+  },
+  "notRunning": {
+    "file": "notRunning.mp3",
+    "sha": "b3deebb30cbdfd7f",
+    "appKey": "notRunning"
+  },
+  "busOff": {
+    "file": "busOff.mp3",
+    "sha": "598467a3cf1e2f5c",
+    "appKey": "busOff"
+  },
+  "rsvpGoing": {
+    "file": "rsvpGoing.mp3",
+    "sha": "1af51d222582212a",
+    "appKey": "rsvpGoing"
+  },
+  "rsvpNot": {
+    "file": "rsvpNot.mp3",
+    "sha": "5b5a81d2c8ca6dd6",
+    "appKey": "rsvpNot"
+  },
+  "acknowledged": {
+    "file": "acknowledged.mp3",
+    "sha": "bb99fe603b225de6",
+    "appKey": "acknowledged"
+  },
+  "paidThanks": {
+    "file": "paidThanks.mp3",
+    "sha": "c1f9c89c7bf91997",
+    "appKey": "paidThanks"
+  },
+  "offline": {
+    "file": "offline.mp3",
+    "sha": "1abe65d684569bc8",
+    "appKey": "offline"
+  },
+  "loadFailed": {
+    "file": "loadFailed.mp3",
+    "sha": "0993df93fb6cca08",
+    "appKey": "loadFailed"
+  },
+  "micBlocked": {
+    "file": "micBlocked.mp3",
+    "sha": "539cc24d1d357c06",
+    "appKey": "micBlocked"
+  },
+  "holdToSpeak": {
+    "file": "holdToSpeak.mp3",
+    "sha": "b0de89ae48c5ddb9",
+    "appKey": "holdToSpeak"
+  },
+  "fromCollege": {
+    "file": "fromCollege.mp3",
+    "sha": "8e45aba3bebe296a",
+    "appKey": "fromCollege"
+  },
+  "reachesStop": {
+    "file": "reachesStop.mp3",
+    "sha": "8ff54e5e6b4fa67a",
+    "appKey": "reachesStop"
+  },
+  "tail_missedClasses": {
+    "file": "tail_missedClasses.mp3",
+    "sha": "ea8d701cb54dcd53",
+    "appKey": null
+  },
+  "tail_newMessages": {
+    "file": "tail_newMessages.mp3",
+    "sha": "8228a17c82c89514",
+    "appKey": null
+  },
+  "tail_busMinutes": {
+    "file": "tail_busMinutes.mp3",
+    "sha": "87bc4bd3f3fc6920",
+    "appKey": null
+  },
+  "tail_fullDays": {
+    "file": "tail_fullDays.mp3",
+    "sha": "73790f961d716ca6",
+    "appKey": null
+  },
+  "num_1": {
+    "file": "num_1.mp3",
+    "sha": "a080e0d206caae75",
+    "appKey": null
+  },
+  "num_2": {
+    "file": "num_2.mp3",
+    "sha": "77ee2dc962874fa6",
+    "appKey": null
+  },
+  "num_3": {
+    "file": "num_3.mp3",
+    "sha": "cbdbe000ef447c9a",
+    "appKey": null
+  },
+  "num_4": {
+    "file": "num_4.mp3",
+    "sha": "b9a097369098acc7",
+    "appKey": null
+  },
+  "num_5": {
+    "file": "num_5.mp3",
+    "sha": "f11729d86508996b",
+    "appKey": null
+  },
+  "num_6": {
+    "file": "num_6.mp3",
+    "sha": "63aa96c4acecc4ff",
+    "appKey": null
+  },
+  "num_7": {
+    "file": "num_7.mp3",
+    "sha": "d9b8efb3b36db453",
+    "appKey": null
+  },
+  "num_8": {
+    "file": "num_8.mp3",
+    "sha": "4053cc6940dd3488",
+    "appKey": null
+  },
+  "num_9": {
+    "file": "num_9.mp3",
+    "sha": "64edaa6e063183c1",
+    "appKey": null
+  },
+  "num_10": {
+    "file": "num_10.mp3",
+    "sha": "a555b479079b0fc0",
+    "appKey": null
+  },
+  "num_11": {
+    "file": "num_11.mp3",
+    "sha": "b2c7c81fb8914596",
+    "appKey": null
+  },
+  "num_12": {
+    "file": "num_12.mp3",
+    "sha": "888eaed4b4b8a8c8",
+    "appKey": null
+  },
+  "num_13": {
+    "file": "num_13.mp3",
+    "sha": "163e4f8363157060",
+    "appKey": null
+  },
+  "num_14": {
+    "file": "num_14.mp3",
+    "sha": "f7ffb572a40dd8ce",
+    "appKey": null
+  },
+  "num_15": {
+    "file": "num_15.mp3",
+    "sha": "86dc2f7d39db1d52",
+    "appKey": null
+  },
+  "num_16": {
+    "file": "num_16.mp3",
+    "sha": "7a1a8a19c979ce67",
+    "appKey": null
+  },
+  "num_17": {
+    "file": "num_17.mp3",
+    "sha": "4ba2082ede16626e",
+    "appKey": null
+  },
+  "num_18": {
+    "file": "num_18.mp3",
+    "sha": "744eabe08453e0ef",
+    "appKey": null
+  },
+  "num_19": {
+    "file": "num_19.mp3",
+    "sha": "3fa290de86dc37e9",
+    "appKey": null
+  },
+  "num_20": {
+    "file": "num_20.mp3",
+    "sha": "91a1314a128413a1",
+    "appKey": null
+  },
+  "num_21": {
+    "file": "num_21.mp3",
+    "sha": "ce32c8343db51ac8",
+    "appKey": null
+  },
+  "num_22": {
+    "file": "num_22.mp3",
+    "sha": "1fc269bca81e77bb",
+    "appKey": null
+  },
+  "num_23": {
+    "file": "num_23.mp3",
+    "sha": "d730e5f3fbef9806",
+    "appKey": null
+  },
+  "num_24": {
+    "file": "num_24.mp3",
+    "sha": "349cb76ebe210cd9",
+    "appKey": null
+  },
+  "num_25": {
+    "file": "num_25.mp3",
+    "sha": "ee127a2fa146b509",
+    "appKey": null
+  },
+  "num_26": {
+    "file": "num_26.mp3",
+    "sha": "c2a2a853cf15cd31",
+    "appKey": null
+  },
+  "num_27": {
+    "file": "num_27.mp3",
+    "sha": "9931a3b055dc60b4",
+    "appKey": null
+  },
+  "num_28": {
+    "file": "num_28.mp3",
+    "sha": "98cdd0c5c9e588ec",
+    "appKey": null
+  },
+  "num_29": {
+    "file": "num_29.mp3",
+    "sha": "cb2386e643bccfde",
+    "appKey": null
+  },
+  "num_30": {
+    "file": "num_30.mp3",
+    "sha": "71decd2a3adbbab9",
+    "appKey": null
+  },
+  "num_31": {
+    "file": "num_31.mp3",
+    "sha": "88278cc5b1fe7d2b",
+    "appKey": null
+  },
+  "num_32": {
+    "file": "num_32.mp3",
+    "sha": "9cccfbc3edd6ac60",
+    "appKey": null
+  },
+  "num_33": {
+    "file": "num_33.mp3",
+    "sha": "79c0e8ab74964114",
+    "appKey": null
+  },
+  "num_34": {
+    "file": "num_34.mp3",
+    "sha": "fd54a5fcc207a85d",
+    "appKey": null
+  },
+  "num_35": {
+    "file": "num_35.mp3",
+    "sha": "a6120f8fc7fceeaa",
+    "appKey": null
+  },
+  "num_36": {
+    "file": "num_36.mp3",
+    "sha": "c3963dc6af86b429",
+    "appKey": null
+  },
+  "num_37": {
+    "file": "num_37.mp3",
+    "sha": "e2a242a45d5ea26c",
+    "appKey": null
+  },
+  "num_38": {
+    "file": "num_38.mp3",
+    "sha": "6eb9097043318bd9",
+    "appKey": null
+  },
+  "num_39": {
+    "file": "num_39.mp3",
+    "sha": "b59cdc965795d3f9",
+    "appKey": null
+  },
+  "num_40": {
+    "file": "num_40.mp3",
+    "sha": "d05059de0d1f5ce6",
+    "appKey": null
+  },
+  "num_41": {
+    "file": "num_41.mp3",
+    "sha": "1460f7fc58452839",
+    "appKey": null
+  },
+  "num_42": {
+    "file": "num_42.mp3",
+    "sha": "e56328c75f5be15d",
+    "appKey": null
+  },
+  "num_43": {
+    "file": "num_43.mp3",
+    "sha": "964a7cb4a84c6c12",
+    "appKey": null
+  },
+  "num_44": {
+    "file": "num_44.mp3",
+    "sha": "cb3f3d661720927e",
+    "appKey": null
+  },
+  "num_45": {
+    "file": "num_45.mp3",
+    "sha": "679204b99c967d78",
+    "appKey": null
+  },
+  "num_46": {
+    "file": "num_46.mp3",
+    "sha": "9929b88dd614f593",
+    "appKey": null
+  },
+  "num_47": {
+    "file": "num_47.mp3",
+    "sha": "0a61f958e9bee3ea",
+    "appKey": null
+  },
+  "num_48": {
+    "file": "num_48.mp3",
+    "sha": "72d23799dc001a2d",
+    "appKey": null
+  },
+  "num_49": {
+    "file": "num_49.mp3",
+    "sha": "ae77b2fb8be67a10",
+    "appKey": null
+  },
+  "num_50": {
+    "file": "num_50.mp3",
+    "sha": "251225158914a3c9",
+    "appKey": null
+  },
+  "num_51": {
+    "file": "num_51.mp3",
+    "sha": "01b3fb6f8c2362e5",
+    "appKey": null
+  },
+  "num_52": {
+    "file": "num_52.mp3",
+    "sha": "bb3034d4e71a9650",
+    "appKey": null
+  },
+  "num_53": {
+    "file": "num_53.mp3",
+    "sha": "b0c94647c7dfe03d",
+    "appKey": null
+  },
+  "num_54": {
+    "file": "num_54.mp3",
+    "sha": "db4d61d67863c2c5",
+    "appKey": null
+  },
+  "num_55": {
+    "file": "num_55.mp3",
+    "sha": "c2b3ce259c9e7eaf",
+    "appKey": null
+  },
+  "num_56": {
+    "file": "num_56.mp3",
+    "sha": "11577b704394b8a4",
+    "appKey": null
+  },
+  "num_57": {
+    "file": "num_57.mp3",
+    "sha": "399e82bb648769fc",
+    "appKey": null
+  },
+  "num_58": {
+    "file": "num_58.mp3",
+    "sha": "e85f3a306b10c101",
+    "appKey": null
+  },
+  "num_59": {
+    "file": "num_59.mp3",
+    "sha": "50d1a3747a6e4a7b",
+    "appKey": null
+  },
+  "num_60": {
+    "file": "num_60.mp3",
+    "sha": "103fed3d8ad59cb5",
+    "appKey": null
+  },
+  "num_61": {
+    "file": "num_61.mp3",
+    "sha": "f8005b696e52f74d",
+    "appKey": null
+  },
+  "num_62": {
+    "file": "num_62.mp3",
+    "sha": "bab992686eeb0342",
+    "appKey": null
+  },
+  "num_63": {
+    "file": "num_63.mp3",
+    "sha": "ef3b8623443cf840",
+    "appKey": null
+  },
+  "num_64": {
+    "file": "num_64.mp3",
+    "sha": "4ee8d0323f3de03c",
+    "appKey": null
+  },
+  "num_65": {
+    "file": "num_65.mp3",
+    "sha": "d05fedbdf73e579c",
+    "appKey": null
+  },
+  "num_66": {
+    "file": "num_66.mp3",
+    "sha": "32329115c59cf818",
+    "appKey": null
+  },
+  "num_67": {
+    "file": "num_67.mp3",
+    "sha": "93e44afb7d15e70f",
+    "appKey": null
+  },
+  "num_68": {
+    "file": "num_68.mp3",
+    "sha": "b99e71c821beed66",
+    "appKey": null
+  },
+  "num_69": {
+    "file": "num_69.mp3",
+    "sha": "f4053d8637815847",
+    "appKey": null
+  },
+  "num_70": {
+    "file": "num_70.mp3",
+    "sha": "516611c5b128bf3e",
+    "appKey": null
+  },
+  "num_71": {
+    "file": "num_71.mp3",
+    "sha": "95e774436b277d0f",
+    "appKey": null
+  },
+  "num_72": {
+    "file": "num_72.mp3",
+    "sha": "9878376922b83055",
+    "appKey": null
+  },
+  "num_73": {
+    "file": "num_73.mp3",
+    "sha": "2438e6fed8f60583",
+    "appKey": null
+  },
+  "num_74": {
+    "file": "num_74.mp3",
+    "sha": "727f895afb1c7d12",
+    "appKey": null
+  },
+  "num_75": {
+    "file": "num_75.mp3",
+    "sha": "8a71427e5a2f9371",
+    "appKey": null
+  },
+  "num_76": {
+    "file": "num_76.mp3",
+    "sha": "9a66089b29c96fd1",
+    "appKey": null
+  },
+  "num_77": {
+    "file": "num_77.mp3",
+    "sha": "94cbb81f3dac8a45",
+    "appKey": null
+  },
+  "num_78": {
+    "file": "num_78.mp3",
+    "sha": "2eabd8b10626f4a6",
+    "appKey": null
+  },
+  "num_79": {
+    "file": "num_79.mp3",
+    "sha": "fccd00b425ef242e",
+    "appKey": null
+  },
+  "num_80": {
+    "file": "num_80.mp3",
+    "sha": "9cfea1717ca0fa72",
+    "appKey": null
+  },
+  "num_81": {
+    "file": "num_81.mp3",
+    "sha": "67fb1cb8210d8c48",
+    "appKey": null
+  },
+  "num_82": {
+    "file": "num_82.mp3",
+    "sha": "4ecd7f41db3fa80f",
+    "appKey": null
+  },
+  "num_83": {
+    "file": "num_83.mp3",
+    "sha": "08d1ed29c0dc9ed3",
+    "appKey": null
+  },
+  "num_84": {
+    "file": "num_84.mp3",
+    "sha": "cb39676941bd3841",
+    "appKey": null
+  },
+  "num_85": {
+    "file": "num_85.mp3",
+    "sha": "bea33f34679da8d4",
+    "appKey": null
+  },
+  "num_86": {
+    "file": "num_86.mp3",
+    "sha": "2308fa09db9f1633",
+    "appKey": null
+  },
+  "num_87": {
+    "file": "num_87.mp3",
+    "sha": "b84ee18793b92fb8",
+    "appKey": null
+  },
+  "num_88": {
+    "file": "num_88.mp3",
+    "sha": "3d61760b2c171cb8",
+    "appKey": null
+  },
+  "num_89": {
+    "file": "num_89.mp3",
+    "sha": "ea9a99d0492df25f",
+    "appKey": null
+  },
+  "num_90": {
+    "file": "num_90.mp3",
+    "sha": "107939b809a719dd",
+    "appKey": null
+  },
+  "num_91": {
+    "file": "num_91.mp3",
+    "sha": "59a7b50b4e86194f",
+    "appKey": null
+  },
+  "num_92": {
+    "file": "num_92.mp3",
+    "sha": "ddbc9a67bdb9c768",
+    "appKey": null
+  },
+  "num_93": {
+    "file": "num_93.mp3",
+    "sha": "5c23c291630c2855",
+    "appKey": null
+  },
+  "num_94": {
+    "file": "num_94.mp3",
+    "sha": "841daa8bf63ab817",
+    "appKey": null
+  },
+  "num_95": {
+    "file": "num_95.mp3",
+    "sha": "1637e71631f42784",
+    "appKey": null
+  },
+  "num_96": {
+    "file": "num_96.mp3",
+    "sha": "8065d672efb7109c",
+    "appKey": null
+  },
+  "num_97": {
+    "file": "num_97.mp3",
+    "sha": "d771c8f4ddf69658",
+    "appKey": null
+  },
+  "num_98": {
+    "file": "num_98.mp3",
+    "sha": "0f3282a9d52f95c4",
+    "appKey": null
+  },
+  "num_99": {
+    "file": "num_99.mp3",
+    "sha": "ae49d538dcaf6e00",
+    "appKey": null
+  },
+  "num_100": {
+    "file": "num_100.mp3",
+    "sha": "4024c677a1963826",
+    "appKey": null
+  },
+  "hundred_1": {
+    "file": "hundred_1.mp3",
+    "sha": "4024c677a1963826",
+    "appKey": null
+  },
+  "hundredJoin_1": {
+    "file": "hundredJoin_1.mp3",
+    "sha": "ae348ab13615a1f1",
+    "appKey": null
+  },
+  "hundred_2": {
+    "file": "hundred_2.mp3",
+    "sha": "f0e016ce903a2ba8",
+    "appKey": null
+  },
+  "hundredJoin_2": {
+    "file": "hundredJoin_2.mp3",
+    "sha": "a8765c36bcada9a4",
+    "appKey": null
+  },
+  "hundred_3": {
+    "file": "hundred_3.mp3",
+    "sha": "0d77ebf9bea85c4f",
+    "appKey": null
+  },
+  "hundredJoin_3": {
+    "file": "hundredJoin_3.mp3",
+    "sha": "ca631d6bb4147c0a",
+    "appKey": null
+  },
+  "hundred_4": {
+    "file": "hundred_4.mp3",
+    "sha": "bcd8c9f654d9c855",
+    "appKey": null
+  },
+  "hundredJoin_4": {
+    "file": "hundredJoin_4.mp3",
+    "sha": "41c5c37a3d399a2b",
+    "appKey": null
+  },
+  "hundred_5": {
+    "file": "hundred_5.mp3",
+    "sha": "6e16251eaa62b981",
+    "appKey": null
+  },
+  "hundredJoin_5": {
+    "file": "hundredJoin_5.mp3",
+    "sha": "e327b89231b81b77",
+    "appKey": null
+  },
+  "hundred_6": {
+    "file": "hundred_6.mp3",
+    "sha": "574bf29248f70cb0",
+    "appKey": null
+  },
+  "hundredJoin_6": {
+    "file": "hundredJoin_6.mp3",
+    "sha": "8ab93756c19d8462",
+    "appKey": null
+  },
+  "hundred_7": {
+    "file": "hundred_7.mp3",
+    "sha": "c05964de16949898",
+    "appKey": null
+  },
+  "hundredJoin_7": {
+    "file": "hundredJoin_7.mp3",
+    "sha": "4a9c8cef7423e7f3",
+    "appKey": null
+  },
+  "hundred_8": {
+    "file": "hundred_8.mp3",
+    "sha": "7762856c3075fc51",
+    "appKey": null
+  },
+  "hundredJoin_8": {
+    "file": "hundredJoin_8.mp3",
+    "sha": "c77cc8a29065d248",
+    "appKey": null
+  },
+  "hundred_9": {
+    "file": "hundred_9.mp3",
+    "sha": "fac715c7919a1a93",
+    "appKey": null
+  },
+  "hundredJoin_9": {
+    "file": "hundredJoin_9.mp3",
+    "sha": "6daf1b9b77679653",
+    "appKey": null
+  },
+  "thousand": {
+    "file": "thousand.mp3",
+    "sha": "9c8e48f6735b344c",
+    "appKey": null
+  },
+  "thousandJoin": {
+    "file": "thousandJoin.mp3",
+    "sha": "a7c6680af81ef659",
+    "appKey": null
+  },
+  "lakh": {
+    "file": "lakh.mp3",
+    "sha": "256040f8c2db375a",
+    "appKey": null
+  },
+  "lakhJoin": {
+    "file": "lakhJoin.mp3",
+    "sha": "59f9ec5332851bb4",
+    "appKey": null
+  },
+  "rupees": {
+    "file": "rupees.mp3",
+    "sha": "4e20a2ecda6c9a2b",
+    "appKey": null
+  },
+  "oneAdj": {
+    "file": "oneAdj.mp3",
+    "sha": "c26b4e111e1fb85d",
+    "appKey": null
+  }
+}

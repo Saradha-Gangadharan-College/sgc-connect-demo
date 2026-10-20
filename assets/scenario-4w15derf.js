@@ -1,0 +1,1 @@
+import{n as e}from"./signals.module-C3mq8fxg.js";var t=[`attention`,`allGood`,`offline`],n=new URLSearchParams(location.search).get(`demo`),r=e(t.includes(n)?n:`attention`);export{t as n,r as t};
